@@ -27,6 +27,7 @@ As a user, I want the ability to...
 - React
 - Node
 - CSS3
+- OpenAi Bot Assistant API: https://platform.openai.com/docs/overview
 - Hugging Face AI API: https://huggingface.co/docs/text-generation-inference/index
 
 ## Ice Box
